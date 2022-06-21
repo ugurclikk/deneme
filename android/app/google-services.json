@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1090507467755",
+    "project_id": "todo-53601",
+    "storage_bucket": "todo-53601.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090507467755:android:943f573e68c8fdf8de07ae",
+        "android_client_info": {
+          "package_name": "com.example.firedeneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090507467755-nsti47odim78gvceipj0npkuf4dgpv7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_urnCQdAnPU4aodu2i9jMbbHVkDSpkTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090507467755-nsti47odim78gvceipj0npkuf4dgpv7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
